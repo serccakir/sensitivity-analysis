@@ -32,7 +32,7 @@ Here the main code to be run is **sensitivity_analysis.py**, and the following d
 - Matplotlib
 - Contextily
     
-**In order to create the same working environment as we have, please follow the upcoming instructions:**
+**In order to create the same working environment as we have, please follow the below instructions:**
 
 1. As listed above, our code is written in **Python**. We suggest you to install the above-mentioned Python version and create a virtual environment using your                 terminal as follows: <br>
     * `python -m venv my_virtual_env`
