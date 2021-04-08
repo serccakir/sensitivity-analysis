@@ -3,9 +3,9 @@
 ### Reproduction steps of this study are listed as follows:
 
 1. This study results 3 different outputs as its final results for the sensitivity analysis method. These outputs are shown in the manuscripts as follows:
-- **Table 2.** Simulation of criteria weights for the activity playing Frisbee within the range of [-100%, +100%]
+- **Table 2.** Simulation of criteria weights for the activity *playing Frisbee* within the range of [-100%, +100%]
 - **Table 3.** Sensitivity of UGS suitability to the criteria weight simulation
-- **Figure 3.** Illustration of UGS suitability in the city of Dresden upon playing Frisbee with the base meadow flatness weight (middle), decreased weight by -100% (top), and increased weight by +100% (bottom)
+- **Figure 3.** Illustration of UGS suitability in the city of Dresden upon *playing Frisbee* with the base meadow flatness weight (middle), decreased weight by -100% (top), and increased weight by +100% (bottom)
 
 2. To be able to acquire the above mentioned outputs, following data and source code are required:
 - ./data/data_frisbee.json 
