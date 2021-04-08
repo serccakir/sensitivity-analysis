@@ -1,5 +1,9 @@
 ## Sensitivity analysis in multi-criteria evaluation of the suitabilityof urban green spaces for recreational activities
 
+
+[![DOI](https://zenodo.org/badge/355944806.svg)](https://zenodo.org/badge/latestdoi/355944806)
+
+
 ### Reproduction steps of this study are listed as follows:
 
 1. This study results 3 different outputs as its final results for the sensitivity analysis method. These outputs are shown in the manuscripts as follows:
