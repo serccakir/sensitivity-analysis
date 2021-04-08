@@ -1,0 +1,7 @@
+contextily==1.0.1
+
+jenkspy==0.2.0
+
+matplotlib==3.2.2
+
+matplotlib-scalebar==0.7.2
