@@ -1,4 +1,4 @@
-## Sensitivity analysis in multi-criteria evaluation of the suitabilityof urban green spaces for recreational activities
+## Sensitivity analysis in multi-criteria evaluation of the suitability of urban green spaces for recreational activities
 
 
 [![DOI](https://zenodo.org/badge/355944806.svg)](https://zenodo.org/badge/latestdoi/355944806)
